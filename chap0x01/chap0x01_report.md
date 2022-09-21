@@ -19,7 +19,7 @@
 
 - [x]  搭建满足如下拓扑图所示的虚拟机网络拓扑：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/网络拓扑.jpg" alt="" data-align="center" width="576">
+<img src="./img/网络拓扑.jpg" title="" alt="" data-align="center">
 
 - [x] 完成以下网络连通性测试：
   
@@ -35,7 +35,7 @@
 
 虚拟硬盘设置成多重加载，如下图所示：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/多重加载.jpg" alt="" data-align="center" width="673">
+<img src="./img/多重加载.jpg" title="" alt="" data-align="center">
 
 - **修改方法**：管理 -> 虚拟介质管理 -> 虚拟硬盘 -> 选择需要的 vdi 文件 -> 属性 -> 将类型修改为多重加载。
 
@@ -43,11 +43,11 @@
 
 用以上虚拟硬盘文件导入实验所需的虚拟机，如下图所示：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/多重加载1.jpg" title="" alt="" data-align="center">
+<img src="./img/多重加载1.jpg" title="" alt="" data-align="center">
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/多重加载2.jpg" title="" alt="" data-align="center">
+<img src="./img/多重加载2.jpg" title="" alt="" data-align="center">
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/多重加载3.jpg" title="" alt="" data-align="center">
+<img src="./img/多重加载3.jpg" title="" alt="" data-align="center">
 
 ### 网络配置
 
@@ -55,7 +55,7 @@
 
 网卡情况：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/网关网络配置.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/网关网络配置.jpg" alt="" data-align="center">
 
 | 网卡名称    | Virtual Box中的网络类型 | IP地址           |
 |:-------:|:-----------------:|:--------------:|
@@ -68,9 +68,9 @@
 
 网卡情况：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/攻击者网卡情况.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/攻击者网卡情况.jpg" alt="" data-align="center">
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/攻击者网卡情况2.jpg" alt="" data-align="center">
+<img title="" src="./img/攻击者网卡情况2.jpg" alt="" data-align="center">
 
 | 网卡名称 | Virtual Box 中的网络类型 | IP地址           |
 |:----:|:------------------:|:--------------:|
@@ -84,9 +84,9 @@
 
 网卡情况：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-1网卡配置.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-1网卡配置.jpg" alt="" data-align="center">
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-1%20IP.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-1 IP.jpg" alt="" data-align="center">
 
 | 网卡名称                  | Virtual Box 中的网络类型 | IP地址           |
 |:---------------------:|:------------------:|:--------------:|
@@ -102,9 +102,9 @@
 
 网卡情况：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-Debian-2网卡配置.jpg" alt="" data-align="center">
+<img title="" src="./img/Victim-Debian-2网卡配置.jpg" alt="" data-align="center">
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-Debian-2%20IP.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-Debian-2%20IP.jpg" alt="" data-align="center">
 
 | 网卡名称   | Virtual Box 中的网络类型 | IP地址           |
 |:------:|:------------------:|:--------------:|
@@ -114,9 +114,9 @@
 
 网卡情况：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-2网络配置.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-2网络配置.jpg" alt="" data-align="center">
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-2%20IP.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-2 IP.jpg" alt="" data-align="center">
 
 | 网卡名称                  | Virtual Box 中的网络类型 | IP地址           |
 |:---------------------:|:------------------:|:--------------:|
@@ -128,15 +128,15 @@
 
 `Victim-XP-1` 访问 `Attack-Kali-2022`：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-1访问主机.jpg" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-1访问主机.jpg" alt="" data-align="center">
 
 `Victim-XP-2` 访问 `Attack-Kali-2022`：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-2访问主机.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-2访问主机.jpg" alt="" data-align="center">
 
 `Victim-Debian-2` 访问 `Attack-Kali-2022`：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-Debian-2访问主机.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-Debian-2访问主机.jpg" alt="" data-align="center">
 
 #### 2. 攻击者主机无法访问靶机
 
@@ -144,7 +144,7 @@
 
 - `Attack-Kali-2022`访问靶机时均无回应，说明无法其访问靶机。
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/测试主机访问靶机.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/测试主机访问靶机.jpg" alt="" data-align="center">
 
 #### 3. 网关可以直接访问攻击者主机和靶机
 
@@ -152,11 +152,11 @@
 
 - 可以 ping 通，说明可以访问。
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/网关访问攻击主机.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/网关访问攻击主机.jpg" alt="" data-align="center">
 
 `Gateway-Debian` 访问其他靶机：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/网关访问靶机.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/网关访问靶机.jpg" alt="" data-align="center">
 
 #### 4. 靶机的所有对外上下行流量必须经过网关
 
@@ -170,25 +170,25 @@ tail -F /var/log/dnsmasq.log
 
 在靶机中访问 `www.baidu.com`，此时靶机能够正常 ping 通。打开 `Gateway-Debian` 的 `dnsmasq.log` ，可以看到日志同步多出几条记录。如下图：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/查看网关日志.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/查看网关日志.jpg" alt="" data-align="center">
 
 #### 5. 所有节点均可以访问互联网
 
 `Gateway-Debian` 访问互联网：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/网关访问互联网.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/网关访问互联网.jpg" alt="" data-align="center">
 
 `Attack-Kali-2022` 访问互联网：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/攻击主机访问互联网.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/攻击主机访问互联网.jpg" alt="" data-align="center">
 
 `Victim-Debian-2` 访问互联网：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-Debian-2访问互联网.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-Debian-2访问互联网.jpg" alt="" data-align="center">
 
 `Victim-XP-1` 访问互联网：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-1访问互联网.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-1访问互联网.jpg" alt="" data-align="center">
 
 `Victim-XP-2` 访问互联网：
 
@@ -200,17 +200,17 @@ tail -F /var/log/dnsmasq.log
 
 **问题**：在将虚拟硬盘配置成多重加载时，出现如下报错：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/问题1.jpg" alt="" data-align="center" width="283">
+<img title="" src="./img/问题1.jpg" alt="" data-align="center" width="283">
 
 **尝试解决的过程**：
 
 经过查看错误明细里的提示和查阅资料，发现该虚拟硬盘还挂载在虚拟机上，于是我首先将盘片从虚拟机中删除，操作如下图所示：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/解决问题1（1）.jpg" alt="" data-align="center" width="709">
+<img title="" src="./img/解决问题1（1）.jpg" alt="" data-align="center" width="709">
 
 操作完成后依旧报错，于是我又在虚拟介质管理中将 `Debian10.vdi` 释放并删除叶子结点，但依旧无法完成类型转换：
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/解决问题1（2）.jpg" alt="" data-align="center" width="744">
+<img title="" src="./img/解决问题1（2）.jpg" alt="" data-align="center" width="744">
 
 **最终解决方法**：在经过黄老师的点拨下，我重新将老师给的 vdi 文件导入新的虚拟机中，没有配其他的 iso 文件，也没有开机装系统，才成功将该磁盘文件类型改为多重加载。
 
@@ -218,11 +218,11 @@ tail -F /var/log/dnsmasq.log
 
 **问题**：在通过 `ipconfig` 查看 WinXP 系统的虚拟机 IP 地址时，出现如下图情况：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/问题2.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/问题2.jpg" alt="" data-align="center">
 
 **解决方法**：经过阅读其他同学的报告，发现也有同学遇到了相同的问题。需要修改网卡中的控制芯片类型为`PCnet-FAST III` 芯片，操作步骤如下图：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/解决问题2（1）.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/解决问题2（1）.jpg" alt="" data-align="center">
 
 ### 3. 网关无法 ping 通 WinXp 系统靶机
 
@@ -230,9 +230,9 @@ tail -F /var/log/dnsmasq.log
 
 **解决方法**：经过查阅资料和师哥师姐们的实验报告，发现是 WinXP 系统中自带的防火墙的问题。需要在 Windows 安全中心设置`允许传入回显请求`。具体操作如下图所示：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/解决问题3（1）.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/解决问题3（1）.jpg" alt="" data-align="center">
 
-<img title="" src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/解决问题3（2）.jpg" alt="" data-align="center" width="299">
+<img title="" src="./img/解决问题3（2）.jpg" alt="" data-align="center" width="299">
 
 ## 参考资料
 
