@@ -192,7 +192,7 @@ tail -F /var/log/dnsmasq.log
 
 `Victim-XP-2` 访问互联网：
 
-<img src="file:///D:/2022-ns-public-Aweiweiwe/chap0x01/img/Victim-XP-2访问互联网.jpg" title="" alt="" data-align="center">
+<img title="" src="./img/Victim-XP-2访问互联网.jpg" alt="" data-align="center">
 
 ## 实验中遇到的问题及解决方法
 
