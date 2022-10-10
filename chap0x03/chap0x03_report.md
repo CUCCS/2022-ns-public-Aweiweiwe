@@ -189,4 +189,4 @@ systemctl status tinyproxy.service
 
 - [参考实验报告1](https://github.com/CUCCS/2021-ns-public-Lychee00/blob/chap0x03/chap0x03/report03.md)
 
-- [参考实验报告2]([2021-ns-public-EddieXu1125/README.md at a033cabe2914308bdc95a6b919c20dec22530f06 · CUCCS/2021-ns-public-EddieXu1125 · GitHub](https://github.com/CUCCS/2021-ns-public-EddieXu1125/blob/a033cabe2914308bdc95a6b919c20dec22530f06/chap0x03/README.md))
+- [参考实验报告2](https://github.com/CUCCS/2021-ns-public-EddieXu1125/blob/a033cabe2914308bdc95a6b919c20dec22530f06/chap0x03/README.md)
